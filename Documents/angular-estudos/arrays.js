@@ -1,5 +1,5 @@
 var carros = [];
 
-a[0] = "Ka";
-a[1] = "Corsa";
-a[2] = "Palio";
+carros[0] = "Ka";
+carros[1] = "Corsa";
+carros[2] = "Palio";
